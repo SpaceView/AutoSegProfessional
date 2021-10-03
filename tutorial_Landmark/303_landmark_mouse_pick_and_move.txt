@@ -1,0 +1,3 @@
+In this example, the points are moved around by mouse pick.
+Bbox AutoGen means generate the bbox (bounding box) automatically, this is true and convenient if you make landmarks for a rectangle shapes!
+If you make landmarks for a face, the bbox may be far away from the data points, thus you may need to uncheck this item and adjust your bbox manually.

@@ -1,0 +1,3 @@
+in this example, we set the category R0805P has 4 landmarks (or keypoints), in the second column.
+
+NOTE: in landmark annotation, no matter how many categories and subcategries you have, the second column are always number of points, 

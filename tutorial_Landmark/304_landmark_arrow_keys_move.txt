@@ -1,0 +1,1 @@
+in this example, data points and the bbox (when AutoGen is unchecked) can be moved by arrow keys in your keyboard

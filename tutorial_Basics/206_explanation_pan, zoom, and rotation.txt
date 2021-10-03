@@ -1,0 +1,58 @@
+when the annotation draw is shifted or rotated, manually edit points must be manually upgraded
+标注的旋转和平移过程中，手动修改的点必须手动同步更新
+
+NOTE：the pan, zoom, and rotation operation can only be applied to geometric annotation draw, NOT finished annotation.
+        these functions need assistant from the <TEMPLATE> tab.
+        use a template which is useless in annotation.
+注意：旋转平移缩放操作只能是标注时和几何图形，已经完成的标注不能操作。
+         这些操作需要<TEMPLATE>页面的辅助。
+
+Press KEYBOARD left, right, up, down key  to pan
+按键盘上的下上下左右键可以平衡标注线
+
+press the rotate button (on the left panel) to rotate
+按左侧的旋转按钮可旋转
+
+press the scaling button to scale (on the right <TEMPLATE> tab to zoom, please note there is a scaling factor
+按右侧<TEMPLATE>页面下的“SCALE”键可以绽放，注意设置缩放因子。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here we can set the rotation incremental value
+这里可以设置旋转的角度
+
+
+
+
+
+
+
+
+The crosshair can be dragged when the mouse is being pressed
+在鼠标按下时，可以拖动十字线的位置

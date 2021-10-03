@@ -1,0 +1,20 @@
+All tutorials are presented as GIF,
+each gif has an explanation TXT with the same filename, in the same folder
+please view them with SpaceViewGif.exe,
+the tutorials mainly in English.
+
+Since AutoSeg Professional is a systemmatical annotation software, it contains lots of functions rather than you can image.
+If all items are introduces, at least hundreds  more GIF tutorials should be presented
+thus we have to present you the basic core functions now.
+
+
+全部教学视频均以GIF和文字描述的方式呈现。
+在同文件夹下，每个GIF都有一个同名的TXT解说文字。
+请使用附带的SpaceViewGif.exe查看所有GIF。
+教学主要用英文介绍
+
+因为AutoSeg内容宏大，没办法做那么多教学视频，
+像模板匹配，模板标注目等很多很多功能目前还没有时间处理。
+全部处理完估计至少好几百个GIF，所以只能先介绍一些核心的基本功能。
+
+

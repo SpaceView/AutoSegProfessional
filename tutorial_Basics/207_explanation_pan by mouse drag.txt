@@ -1,0 +1,2 @@
+You must set the annotation draw property to "pan" beforehand, otherwise you may not be able to drag a drawing
+你必须在使用鼠标拖动的 平移 功能前设置标注几何图属性为"pan"。

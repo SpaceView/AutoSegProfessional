@@ -1,0 +1,1 @@
+now press F2 in your keyboard, you will create an item whose category is the 2nd item.

@@ -1,0 +1,4 @@
+with your arrow keys in your keyboard,
+You can move the drawing polygon as a whole when drafting
+Or,
+You can move a single vertex of a polygon 

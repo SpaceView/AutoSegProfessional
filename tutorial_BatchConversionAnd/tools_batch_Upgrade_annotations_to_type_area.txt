@@ -1,0 +1,9 @@
+NOTE: Put images & annotations under default folder to avoid any setting, otherwise, 
+such as (the checkbox "annotations in default coco folder" should be check by default)
+<imagefolder>
+<imagefolder>/coco/<annotations>.json
+<imagefolder>/cat/<categories>.json
+
+otherwise, you need to do 2 things
+(1), ANNOTATIONS should be in the same folder as image
+(2), You must import CATEGORIES in the main categories panel to avoid auto removal of annotations, since any annotation cannot find corresponding categories will be removed automatically.

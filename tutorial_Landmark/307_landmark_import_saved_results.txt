@@ -1,0 +1,5 @@
+You can import saved annotations by using the import annotation button.
+But, if you save your annotation under "coco" folder, manual import is disabled, since the system uses this path.
+You just need to open the image, the annotation bearing the image name under coco format will be imported automatically.
+
+For more information about AutoSeg folder structure, please refer to AutoSeg User manual.

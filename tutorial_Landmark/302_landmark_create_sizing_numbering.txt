@@ -1,0 +1,4 @@
+in last example we set the R0805P has 4 keypoints, 
+Select the point from the top bar, put it anywhere you want, and you can see 4 points created already.
+You can adjust the size & show numbers of data points
+Next step we will see how we manage to move it to the correct location.

@@ -1,0 +1,11 @@
+there is a color initialization table in the folder where AutoSeg.exe is located,
+You can edit the value, AutoSeg will use this table to initialize the AutoColor table.
+
+format of the <ColorTable.ini> table is given as follows,
+<name>:<value>；
+such as 
+0:0x0000ff;
+1:0x00ff00;
+2:0xff0000;
+3:0x0080ff;
+

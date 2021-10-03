@@ -1,0 +1,2 @@
+save the file to any folder you want
+we recommend the location  <images folder>/cat/categories, since this will is the default and it will be opened for you when you open the image.

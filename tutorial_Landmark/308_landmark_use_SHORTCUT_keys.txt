@@ -1,0 +1,8 @@
+SHORTCUT keys can speed up your annotation a lot
+
+First, select the main type you are annotating, in this landmark situation, you have to select point
+
+F0 means create an item as described in category item 0.
+F1 means create an item as described in category item 1.
+...
+F12 means create an item as described in category item 12.

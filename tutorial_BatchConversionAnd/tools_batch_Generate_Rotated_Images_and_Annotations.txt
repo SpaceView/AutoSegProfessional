@@ -1,0 +1,15 @@
+How to extend your annotations and images in AI model, rotating relevant images and annotations should be a good method.
+This tutorial tells you how to rotate images and relevant annotations.
+
+You can see that, we have nearly 60 annotated image, after rotation, each image generated 35 rotated images, thus in total 35*59 = 2065 images.
+
+NOTE: Put images & annotations under default folder to avoid any setting
+ (the checkbox "annotations in default coco folder" should be checked by default), 
+such as 
+<imagefolder>
+<imagefolder>/coco/<annotations>.json
+<imagefolder>/cat/<categories>.json
+
+otherwise, you need to do 2 things
+(1), ANNOTATIONS should be in the same folder as image
+(2), You must import CATEGORIES in advance in the main categories panel to avoid auto removal of annotations, since any annotation cannot find corresponding categories will be removed automatically.

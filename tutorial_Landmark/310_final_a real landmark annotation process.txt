@@ -1,0 +1,8 @@
+Please refer to the seeting <*.png> before hand.
+
+(1) in this example, the shortcut keys are set to "point", so that you can use F1 in you keyboard to new (create) annotation R0805P with 4 landmarks.
+
+(2) Keep the "assistant circle" button down, it will initiate the 4 landmarks for your first click for a newly created item.
+You can check the showCircle box to see the effect.
+
+
