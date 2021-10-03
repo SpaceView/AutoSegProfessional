@@ -50,6 +50,8 @@ Well, too mush to say, just refer to the specifics.
 
 
 
+
+
 ### landmark annotation
 
 
@@ -60,5 +62,18 @@ Well, too mush to say, just refer to the specifics.
 
 
 
+# Batch Operation
+
+### Generate Rotated Images and Annotations (in this example a copy is save for every 10 degrees)
 
 
+
+(1) Generate Rotated Images & Annotations
+
+![](./tutorial_BatchConversionAnd/tools_batch_Generate_Rotated_Images_and_Annotations_01.gif)
+
+
+
+（2）Check Generated Results
+
+![](./tutorial_BatchConversionAnd/tools_batch_Generate_Rotated_Images_and_Annotations_02.gif)
