@@ -1,3 +1,7 @@
+# IN PROCESS of uploading, currently just tutorials, no software tools available
+
+
+
 # AutoSeg Professional
 
 The most convenient, fast, and modern annotation tool.
@@ -31,6 +35,30 @@ And You can do some batch work
 .....
 
 Well, too mush to say, just refer to the specifics.
+
+
+
+# Tutorials
+
+
+
+### AutoEdge generation at pixel level
+
+
+
+![](./tutorial_AutoEdge_AutoSeg/auto_edge_adjustments_at_pixel_level.gif)
+
+
+
+### landmark annotation
+
+
+
+
+
+![](./tutorial_Landmark/311_final_landmark_annotation_process.gif)
+
+
 
 
 
