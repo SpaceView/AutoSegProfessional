@@ -1,0 +1,10 @@
+Sometime you may need to replace part of the image, which might be difficult to annotate, with some background,
+you can do the following:
+
+(1) annotate the needed parts, they could be polygon, or area, or landmarks (this will make a convex polygon by Autoseg automatically
+(2) new an area annotation item, this item is assistant, you can delete it after work done
+(3) use any tools to select areas need to be replaced
+(4) right click the above assistant item, select the "RepalceWith..." menu item
+(5) image will be saved to the subfolder "<image>/Patched/*.png"
+
+Done!

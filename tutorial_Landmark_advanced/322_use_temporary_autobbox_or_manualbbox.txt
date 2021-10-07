@@ -1,0 +1,2 @@
+You can use right click to enable temporary manual bbox or auto bbox function based on you need.
+This function is provided so that you don't need to check the BBOX check for a temporary operation, which will be more time consuming.

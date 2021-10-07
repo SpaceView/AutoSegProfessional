@@ -1,0 +1,2 @@
+Sometimes you may need to annotation half an object, them some landmarks have to removed.
+On this case, since there are invalid positions, the bbox will not be able to generated automatically, thus you have to adjust them manually.
