@@ -77,3 +77,11 @@ Well, too mush to say, just refer to the specifics.
 （2）Check Generated Results
 
 ![](./tutorial_BatchConversionAnd/tools_batch_Generate_Rotated_Images_and_Annotations_02.gif)
+
+
+
+# Advanced Techniques
+
+Replace Unwanted Image Parts with Random Background
+
+![](./advanced_tutorial/401_replace_unwanted_area_with_radom_background_01.gif)
