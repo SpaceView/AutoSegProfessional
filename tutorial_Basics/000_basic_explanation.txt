@@ -1,0 +1,12 @@
+please refer to the .docx manual for more detail
+
+Keep In Mind the following key operations:
+(1)	Press Carriage Return Key on your key board when you finish drafting an annotation.
+(2)	Press ESCAPE key on your key board when you get no response from AutoSeg.
+
+记住两个标准操作：
+（1）	标注草图形画完的时候，回车生成标注
+（2）	碰到不响应的时候，ESCAPE键盘。
+
+说明（1） 回车和那个打勾的按钮功能是完全一样的，任务做完了就回车。
+说明（2）AutoSeg体系宏大，拥有太多的功能和按键，功能之间是有一定优先顺序的。如果用户在不熟悉的情况下按下了某个功能键（工具栏图标），那么就有可能出现不响应其他功能的状态，ESCAPE键会取消当前所有功能，使用用户能快速回到初始状态。
