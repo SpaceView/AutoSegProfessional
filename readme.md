@@ -16,7 +16,7 @@ Let's dig them out!
 
 
 
-![](advanced_tutorial\406_copy_matting_objects_to_anywhere_like_professinal_ps.gif)
+![](./advanced_tutorial/406_copy_matting_objects_to_anywhere_like_professinal_ps.gif)
 
 
 
