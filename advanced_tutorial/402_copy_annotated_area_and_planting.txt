@@ -1,4 +1,7 @@
 You can copy the whole annotation item (TYPE MUST BE AREA) to anywhere  in the image range.
 
+Press Left or Right arrow key on your keyboard to rotate the image when the boundary is hanging on the mouse.
+
 When you press ESCAPE button on your key board, or right click "Done" menu, or move to NEXT or PREVIOUS image, the pasted image will be automatically saved for you in the subfolder "<image>/Patched/*.png"
 NOTE that your original image keeps intact, thus when you go back, it will display the original image
+
