@@ -1,0 +1,4 @@
+Let's do something interesting.
+Copy an object from image matting, then paste it anywhere you like, finish it in 20 seconds.
+
+Now you see, the merecat sit in the flowers as expected.

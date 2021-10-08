@@ -2,6 +2,24 @@
 
 
 
+AutoSegProfessional is a software for image annotation.
+
+It can handle various annotation in a very fast and handy manner.
+
+It has much more function than you have ever expected. The tutorial might be more than **300 lessons**, as we  currently expected.
+
+Let's dig them out!
+
+
+
+# Something Interesting
+
+
+
+![](advanced_tutorial\406_copy_matting_objects_to_anywhere_like_professinal_ps.gif)
+
+
+
 # AutoSeg Professional
 
 The most convenient, fast, and modern annotation tool.
