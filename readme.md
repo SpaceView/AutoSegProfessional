@@ -82,6 +82,17 @@ Well, too mush to say, just refer to the specifics.
 
 # Advanced Techniques
 
+
+
+**Please refer to the <advanced_tutorial> subfolder for more detailed tutorials.**
+
 Replace Unwanted Image Parts with Random Background
 
 ![](./advanced_tutorial/401_replace_unwanted_area_with_radom_background_01.gif)
+
+
+
+COPY and Paste image areas, select any way as you like
+
+![](./advanced_tutorial/405_copy_polygon_rect_etc_selected_area_and_pasting.gif)
+
