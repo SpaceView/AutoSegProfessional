@@ -1,0 +1,5 @@
+In this example, we give a full view of the annotation process,
+In the right view, you select any area need to be removed, 
+After click the "ReplaceWithBackground" menu item, you can see that the left view gives the final replaced results: the edge selected area are replaced by some random background patches from the image.
+When you click next, the new image will be automatically saved for you at subfolder "Patched"
+<images>/Patched/<image_name>.png
