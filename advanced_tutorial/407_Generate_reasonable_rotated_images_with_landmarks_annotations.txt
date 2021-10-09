@@ -1,0 +1,11 @@
+Tutorial: Generate reasonable rotated images with landmarks annotations.
+In this batch conversion, we have 3 images, each object inside the image is annotated with 4 landmarks.
+For each image, we generate a rotated one per 10degrees. thus we will generate 3 * (360/10 - 1) = 105 rotated images.
+After rotation, some landmarks will be outside of the image, which is NOT good. On most occasions, landmarks annotations should be complete; therefore, we remove all the annotations if any of whose landmarks is in the outside of the image.
+The problem is, if we remove the landmark, but part of the object is still inside the image, which will give a big influence to the training result of the machine learning, since without annotation these partial positive objects will be treat as negative background, but that is not true.
+Our method is, replace this partial positive objects with random background from the image.
+This is a huge workload if you manually handle them one by one.
+While with AutoSeg Professional, you can finish all of them with a single click.
+Let's go & check!
+
+
