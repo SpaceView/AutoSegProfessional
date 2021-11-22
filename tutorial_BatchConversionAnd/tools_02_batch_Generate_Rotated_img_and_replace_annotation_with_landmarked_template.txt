@@ -1,0 +1,17 @@
+To generate images with complicated shapes, you must have a template with landmarks
+
+Step(1)
+In the "annotation" panel, open relevant image and categories
+
+Step(2)
+In the "template" panel, import relevant template
+
+Step(3) 
+tools --> Batch_GenerateRotatedImages
+                            ---> ReplacementSetting --> check radio button "scaled template based on landmarks"
+
+
+Step(4)
+Execute Generate
+
+

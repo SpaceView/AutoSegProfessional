@@ -1,0 +1,11 @@
+NOTE: 
+(1) template.json is stored at 
+<images>/tmp/template.json
+
+(2) Draft draw and template polygon points have seperate memory storage, 
+All your edit is carried out on draft drawing.
+Thus, in the template panel, when the final shape edit is finished, 
+you must use "import..." to update the final results to the template item.
+
+(3) You can use "export..." to export current template poly to the draft.
+To export template shape, you must select the "polygon".

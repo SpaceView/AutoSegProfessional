@@ -1,0 +1,5 @@
+You can use First, Last, Previous, Last buttons to browser through images, 
+annotation will be saved automatically for each image when you change to another one,
+
+Right click on this button and select the "goto..." menu item, fill the index, the image image will be opened for your automatically.
+

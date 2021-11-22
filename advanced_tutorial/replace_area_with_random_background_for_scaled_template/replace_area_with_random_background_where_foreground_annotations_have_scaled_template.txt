@@ -1,0 +1,39 @@
+NOTE:
+(1) the replaced image file result is stored at <image>/patched/*.png
+(2) the template location is <image>/tmp/template.json, this sub-path is fixed under your main image path.
+(3) Sequence and position of landmarks must match exactly, in this example, the transistor has 3 landmarks with sequence numbered clockwise (0, 1, 2).
+
+-----------------------
+General Introduction:
+
+Problem
+ref. example_01_xxx.png
+Image you need to replace some "unwanted area" with random background;
+but, your foreground components have very complicated shapes;
+then, how can you get the correct background where no foreground is involved?
+
+step(1)
+in "Replacement Setting", 
+select the radio button "scaled template based on landmarks"
+
+step(2)
+in the "Template" panel, import the correct template;
+edit one if you don't have it.
+
+step(3)
+make an area mask the right select the "ReplaceWithBackground"
+
+Done!
+
+-----------------------
+replacement principle, 
+introduction (1)
+ref. example_02_xxx.png
+get the annotated area with template match;
+How to match the template?
+In this example, since our annotation item has 3 landmarks, then our template must have 3 landmarks too, (ref. default_template_with_landmarks); and we do affine transformation (shift, rotation, & scale) to match the template.
+Surely the matched area is the foreground.
+
+introduction (2)
+ref. example_03_xxx.png
+Now the black area is the background area, we randomly select this area from the image to replace the "unwanted area".
