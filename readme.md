@@ -1,7 +1,6 @@
-# IN PROCESS of uploading, software tools Updated
+# Software tools Updated
 
-
-AutoSegProfessional is a software for image annotation.
+AutoSegProfessional is a free software for image annotation.
 
 It can handle various annotation in a very fast and handy manner.
 
@@ -14,7 +13,13 @@ Let's dig them out!
   and there are lots of improvements waiting for update!
   Now it seems I don't have time for all of it.
   Hope you enjoy it. Everybody can send me notes when there are problems, just I cannot promise immediate update.
-  
+
+  I developed this software tools in 2018, for segment annotation it still has the highest accuracy as far as I know.
+  The segmentation tutorial is at
+  https://github.com/SpaceView/AutoSegProfessional/tree/main/tutorial_AutoEdge_AutoSeg
+
+  for other tutorials, please go to relevent folder.
+
 
 # Something Interesting
 
