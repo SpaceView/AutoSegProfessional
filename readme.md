@@ -1,5 +1,4 @@
-# IN PROCESS of uploading, currently just tutorials, no software tools available
-
+# IN PROCESS of uploading, software tools Updated
 
 
 AutoSegProfessional is a software for image annotation.
@@ -10,7 +9,12 @@ It has much more function than you have ever expected. The tutorial might be mor
 
 Let's dig them out!
 
-
+# NOTE:
+  the reason of delayed update is that, the software is written according to some special habits, 
+  and there are lots of improvements waiting for update!
+  Now it seems I don't have time for all of it.
+  Hope you enjoy it. Everybody can send me notes when there are problems, just I cannot promise immediate update.
+  
 
 # Something Interesting
 
