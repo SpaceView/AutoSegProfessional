@@ -23,7 +23,7 @@ Let's dig them out!
 
 # Something Interesting
 
-![](./tutorial_AutoEdge_AutoSeg/auto_edge_adjustments_at_pixel_level.gif.gif)
+![](./tutorial_AutoEdge_AutoSeg/auto_edge_adjustments_at_pixel_level.gif)
 
 
 ![](./advanced_tutorial/406_copy_matting_objects_to_anywhere_like_professinal_ps.gif)
