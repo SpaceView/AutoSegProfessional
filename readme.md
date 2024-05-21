@@ -14,7 +14,7 @@ Let's dig them out!
   Now it seems I don't have time for all of it.
   Hope you enjoy it. Everybody can send me notes when there are problems, just I cannot promise immediate update.
 
-  I developed this software tools in 2018, for segment annotation it still has the highest accuracy as far as I know.
+  I developed this software tools in 2019, for segment annotation it still has the relatively higher accuracy in Conventional CV as far as I know.
   The segmentation tutorial is at
   https://github.com/SpaceView/AutoSegProfessional/tree/main/tutorial_AutoEdge_AutoSeg
 
